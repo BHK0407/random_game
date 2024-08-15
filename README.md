@@ -17,7 +17,7 @@ A simple graphical application for generating random numbers between 1 and 200. 
 ## Installation
 
 1. **Clone the Repository**:
-   git clone https://github.com/yourusername/random-number-generator.git
+   git clone https://github.com/BHK0407/random_game.git
    cd random-number-generator
 
 2. **Ensure Python and Tinker:**
